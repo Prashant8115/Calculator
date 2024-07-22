@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.btn{
+    @apply bg-slate-700 text-white m-1 py-1 border-2 border-solid border-black rounded-md hover:bg-slate-800;
+}
+@tailwind utilities;
